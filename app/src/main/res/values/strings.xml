@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemosAppKotlin</string>
+    <string name="add_memo">Ajouter un memo</string>
+</resources>
